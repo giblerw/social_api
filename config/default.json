@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://giblerw:ZAQ%212wsx@devconnector-px5fm.mongodb.net/test?retryWrites=true",
+  "jwtSecret": "supersecrettoken",
+  "githubClientId": "e8ac860d6034fd614be3",
+  "githubSecret": "1cf31f7d9064aac01ec5e128b4bb5cb8102c9495"
+}
